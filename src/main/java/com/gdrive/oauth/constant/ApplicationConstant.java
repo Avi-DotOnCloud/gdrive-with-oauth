@@ -17,6 +17,6 @@ public class ApplicationConstant {
 	public static final List<String> SCOPES = Collections.singletonList(DriveScopes.DRIVE);
 
 	public static final String USER_IDENTIFIER_KEY = "MY_TEST_USER";
-	public static final String APPLICATION_NAME = "AvisDriveIntegration";
+	public static final String APPLICATION_NAME = "WhiteGlobeLandingZone";
 	public static final String PARENT_FOLDER_NAME = "OAuth Demo App Uploaded";
 }
